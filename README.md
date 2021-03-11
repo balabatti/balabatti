@@ -1,12 +1,7 @@
-# Hello there 👋
+# Hello there i am @Pavan_s_balabatti 👋
 
 
-- 🔭 I’m currently working on ...reactjs project
-- 🌱 I’m currently learning ...reactjs
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ..
-- 💬 Ask me about ...anything
-- 📫 How to reach me: ...@PavanSb15
-- 😄 Pronouns: ... he/bruh
-- ⚡ Fun fact: ...im inevitable
--->
+##optimistic
+##contact info :
+linkedin resume:https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:11606897/
+Mailid : pavansb809@gmail.com
