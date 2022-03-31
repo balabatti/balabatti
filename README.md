@@ -4,6 +4,6 @@
 ## optimistic<br>
 ## contact info: <br>
 
-personal website: balabatti.github.io
+personal website: balabatti.github.io<br>
 linkedin resume:https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:11606897/<br>
 Mail id : pavansb809@gmail.com
